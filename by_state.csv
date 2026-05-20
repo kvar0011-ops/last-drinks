@@ -1,0 +1,9 @@
+state,state_abbr,exceeded_guideline_pct,daily_pct,weekly_pct,never_pct,id
+New South Wales,NSW,26.3,4.8,37.2,17.5,1
+Victoria,VIC,23.8,4.0,34.5,19.2,2
+Queensland,QLD,29.4,5.6,38.1,16.8,3
+South Australia,SA,29.3,5.5,36.7,16.3,4
+Western Australia,WA,29.9,5.8,39.4,15.7,5
+Tasmania,TAS,26.8,5.2,35.8,18.1,6
+Northern Territory,NT,31.1,7.2,38.9,18.9,7
+Australian Capital Territory,ACT,25.7,4.5,36.2,17.1,8
